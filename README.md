@@ -1,6 +1,6 @@
-# Previsões de Câncer de Mama com SVM: Visão Geral do Projeto
+# Aplicação de Máquina de Vetores de Suporte (SVM) em Câncer
 
-Este projeto implementa um classificador **SVM (Máquina de Vetores de Suporte)** para realizar a classificação no conjunto de dados do **Câncer de Mama de Wisconsin**, com o objetivo de prever se o tumor é cancerígeno ou não.
+Este projeto implementa um classificador **SVM (Support Vector Machines)** para realizar a classificação em três diferentes tipos de dataset, com o objetivo de prever se o tumor é cancerígeno ou não em dados estruturados e não estruturados.
 
 ## Objetivos do Projeto
 
@@ -24,9 +24,9 @@ Este projeto implementa um classificador **SVM (Máquina de Vetores de Suporte)*
 
 ## Dados
 
-- **Conjunto de Dados**: [Câncer de Mama Wisconsin (Diagnóstico)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
-- Visão geral do conjunto de dados
-- Diferença entre Maligno e Benigno
+- **Conjunto de Dados 1**: [Câncer de Mama Wisconsin (Diagnóstico)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+- **Conjunto de Dados 2**: [UCI Machine Learning Repository](https://github.com/pranavtumkur/Predicting-Cancer-using-Support-Vector-Machines/tree/master)
+- **Conjunto de Dados 3**: [Brain MRI Images for Brain Tumor Detection)](https://www.kaggle.com/code/brendonim/brain-mri-tumor-detection-using-svm/input)
 
 ## Análise Exploratória de Dados (EDA)
 
@@ -35,7 +35,7 @@ Este projeto implementa um classificador **SVM (Máquina de Vetores de Suporte)*
 
 ## Construção do Modelo
 
-Dois modelos foram testados e avaliados utilizando a métrica **Accuracy_Score**:
+Dois modelos foram testados e avaliados:
 
 - Regressão Logística
 - Classificador de Vetores de Suporte (SVM)
