@@ -22,14 +22,9 @@ Este projeto implementa um classificador **SVM (Máquina de Vetores de Suporte)*
   - Seaborn
   - Sklearn
 
-## Entendendo um Relatório de Classificação para seu Modelo de Aprendizado de Máquina
-
-- **Taxa de Verdadeiros Positivos**
-- Como plotar uma curva ROC no Python
-
 ## Dados
 
-- **Conjunto de Dados**: Câncer de Mama Wisconsin (Diagnóstico)
+- **Conjunto de Dados**: [Câncer de Mama Wisconsin (Diagnóstico)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 - Visão geral do conjunto de dados
 - Diferença entre Maligno e Benigno
 
