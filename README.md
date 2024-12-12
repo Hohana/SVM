@@ -32,7 +32,7 @@ Instalação:
 ```
 git clone https://github.com/Hohana/SVM.git
 ```
-### 2. Abrir diretamente no Google Colab:
+2. Abrir diretamente no Google Colab:
 Para executar o código no Google Colab, basta acessar o seguinte link:  
 [**Abrir no Google Colab**](https://colab.research.google.com/drive/1O6Ek08PLIMdZZhagxQVmxdUEL8piCAxh?usp=sharing)
 ---
