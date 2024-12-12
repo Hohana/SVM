@@ -38,8 +38,9 @@ Para executar o código no Google Colab, basta acessar o seguinte link:
 ---
 ## 📚 **Material Didático**
 
-Para um melhor entendimento da aplicação do SVM no diagnóstico de câncer, confira a apresentação didática disponível no Canva:  
-[**Journal Club Liaa Onco - SVM**]([https://www.canva.com/](https://www.canva.com/design/DAGY1XCj81I/3hTPWOsqn22x5BhZqk3QZg/view?utm_content=DAGY1XCj81I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h23543aa77e))
+Para um melhor entendimento da aplicação do SVM no diagnóstico de câncer, confira a apresentação didática disponível no Canva: 
+
+[![Material Didático - LiiaOnco](https://via.placeholder.com/300x200.png)](https://www.canva.com/)
 ---
 ## 💬 **Contato**
 
