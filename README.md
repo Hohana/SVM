@@ -3,7 +3,7 @@
 Este repositório contém códigos e dados para a implementação de classificadores **SVM (Support Vector Machines)**. 
 A aplicação é focada em dados de câncer contando com dados estruturados (informações celulares) e não estruturados (Imagens de Ressonância Magnética).
 O objetivo final é avaliar a apicação de SVMs utilizando diferentes tipos de kernels e também realizar uma comparação com regressão logística.
----
+
 ## 📌 Objetivos do Projeto
 
 - Construção de gráficos e visualizações para obter uma visão geral sobre como os dados se apresentam.
@@ -40,7 +40,8 @@ Para executar o código no Google Colab, basta acessar o seguinte link:
 
 Para um melhor entendimento da aplicação do SVM no diagnóstico de câncer, confira a apresentação didática disponível no Canva: 
 
-[(https://camo.githubusercontent.com/b33cc3e1cd2ab321366232df2d58de96284f7b552582495bfbd8241f2e32dbed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d41627269725f4d6174657269616c2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d63616e7661)](https://www.canva.com/)
+[![Material Didático - LiiaOnco](https://camo.githubusercontent.com/b33cc3e1cd2ab321366232df2d58de96284f7b552582495bfbd8241f2e32dbed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d41627269725f4d6174657269616c2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d63616e7661)](https://www.canva.com/)
+
 ---
 ## 💬 **Contato**
 
