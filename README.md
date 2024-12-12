@@ -1,10 +1,10 @@
-#2 Journal Club LiiaOnco: Máquina de Vetores de Suporte (SVM)
+## 2 Journal Club LiiaOnco: Máquina de Vetores de Suporte (SVM)
 
 Este repositório contém códigos e dados para a implementação de classificadores **SVM (Support Vector Machines)**. 
 A aplicação é focada em dados de câncer contando com dados estruturados (informações celulares) e não estruturados (Imagens de Ressonância Magnética).
 O objetivo final é avaliar a apicação de SVMs utilizando diferentes tipos de kernels e também realizar uma comparação com regressão logística.
 
-🧠 ##Objetivos do Projeto
+## 🧠 Objetivos do Projeto
 
 - Construção de gráficos e visualizações para obter uma visão geral sobre como os dados se apresentam.
 - Avaliação do desempenho do classificador SVM através de diferentes métricas de performance.
