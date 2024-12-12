@@ -4,7 +4,7 @@ Este repositório contém códigos e dados para a implementação de classificad
 A aplicação é focada em dados de câncer contando com dados estruturados (informações celulares) e não estruturados (Imagens de Ressonância Magnética).
 O objetivo final é avaliar a apicação de SVMs utilizando diferentes tipos de kernels e também realizar uma comparação com regressão logística.
 
-##<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fcerebro_6830636&psig=AOvVaw0sTqqNXlc48-67HkB3yu4B&ust=1734088735652000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD66Y6OoooDFQAAAAAdAAAAABAJ" alt="Brain"> Objetivos do Projeto
+🧠 ##Objetivos do Projeto
 
 - Construção de gráficos e visualizações para obter uma visão geral sobre como os dados se apresentam.
 - Avaliação do desempenho do classificador SVM através de diferentes métricas de performance.
